@@ -1,0 +1,33 @@
+[
+	{
+		"id": 1,
+		"name": "T-bone Steak",
+        "image": "t-bonesteak",
+		"description": "T-bone steak is a cut from the short loin, featuring a T-shaped bone with tenderloin on one side and strip steak on the other.",
+		"price": 12.85
+	},
+    
+    {
+        "id": 2,
+        "name": "Ribeye Steak",
+        "image": "ribeyesteak",
+        "description": "Ribeye steak is cut from the rib section, known for its rich marbling and robust taste.",
+        "price": 7.95
+    },
+    
+    {
+        "id": 3,
+        "name": "Sirloin Steak",
+        "image": "sirloinsteak",
+        "description": "Sirloin steak is derived from the hip area, offering a balance of tenderness and flavor.",
+        "price": 5.95
+    },
+    
+    {
+        "id": 4,
+        "name": "Rump Steak",
+        "image": "rumpsteak",
+        "description": "Rump steak is from the hindquarters, leaner and less tender but flavorful when properly cooked.",
+        "price": 3.99
+    }
+]
